@@ -1,0 +1,24 @@
+body{
+    background-image:url("1.jpg");
+    background-size: 100px;
+
+
+}
+.a p{
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 40px;
+}
+.b p{
+    text-align: center;
+    color: aliceblue;
+}
+.c{
+    text-align: center;
+}
+.c button{
+    background-color: chartreuse;
+    font-size: 12px;
+    padding: 10px 30px;
+}
